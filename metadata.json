@@ -1,0 +1,5 @@
+{
+  "name": "Well-Tegra: AI Code Review",
+  "description": "An automated code review tool that uses Gemini to analyze code snippets, provide feedback on quality, suggest improvements, and identify potential bugs. Users can paste their code, select a review objective, and receive AI-powered insights to enhance their code.",
+  "requestFramePermissions": []
+}
